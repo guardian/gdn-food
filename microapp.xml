@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<microapp interface-version="1" version="1.0">
+  <components>
+    <component-definition display-name="Recipe box (by Contributor)" name="contributor-recipe-box" path="/static/js/microapps/recipes-by-contributor.js" widths="460,620" ajax="true"/>
+    <component-definition display-name="Recipe box (all)" name="recipe-box" path="/static/js/microapps/all-recipes.js" widths="460,620" ajax="true"/>
+  </components>
+</microapp>
